@@ -1,0 +1,9 @@
+HelloWorldCS5800 has Color: Blue
+                      Size: 14
+                      Font: Arial
+HelloWorldCS5800 has Color: Red
+                      Size: 16
+                      Font: Calibri
+HelloWorldCS5800 has Color: Red
+                      Size: 12
+                      Font: Verdana
